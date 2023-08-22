@@ -29,14 +29,53 @@ All commands visible in here, will be representing a function. Whether it's maki
 To make a commit there are a few steps, first you must check if your repository has already been created on your GitHub.
 It will already help you to do it, giving the first steps when creating a repo, however, here is a brief explanation of what each one does and represents.
 
-##### For initializate your files on Git
+##### For initializate your files on Git.
       git init
       
-##### Caso você queira adicionar um arquivo readme
+##### If you want to add a readme file.
       git add README.md
 
-##### Fazendo seu commit com uma menssagem de sua escolha (vale lembrar que esta menssagem será exibida)
+##### Making your commit with a message of your choice (it is worth remembering, that message will be displayed).
       git commit -m "first commit"
 
-##### Este comando ajudará você a estabelecer a conexão necessaria para subir suas alterações, observe que, este comando sincroniza o seu projeto local, com o repo presente em seu Git 
+##### This command will help you to establish the necessary connection to upload your changes, note that this command synchronizes your local project with the repo present in your Git.
       git remote add origin https://github.com/YourUserName/YourRepoName.git
+
+##### With this command, you can select the branch you want to upload the local content.
+      git branch -M main
+
+##### Do the push (as the name implies, _push_ is the act of pulling the local content, synchronized with your repo).
+      git push -u origin main
+
+It saw? it's not that difficult to commit and push in a repo, following these steps exactly, after creating a repo in your profile, you will upload all the available content to your GitHub!
+It is important to remember that this is just the initial step, throughout a project, you will update it more often, and it is not necessary to repeat the process, just issue the following commands, and your new version will be available:
+
+##### 
+      git add . 
+      git commit -m "update version"
+      git push
+
+### Visualization and manipulation 🙌
+
+Here are some of the commands needed to view and manipulate branches and remote repositories:
+
+##### 
+      git remote show origin
+      git remote rename origin curso-git
+      git remote rm curso-git
+      git remote -v
+      git branch
+      git checkout branchName
+      git checkout master
+      git merge branchName
+
+**Respectively, the commands:**
+
+* Show the linked origin
+* Renames the linked origin
+* Unlink origin from git repository
+* Shows the linked origin
+* Shows the branch you are manipulating
+* Switch from branch
+* Goes back to the main branch
+* Merge two different branches
