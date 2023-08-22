@@ -1,18 +1,18 @@
-# GitHub Commands <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30">
+# GitHub Commands <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
 **Language support:**
 
 <p>
     <a href="/docs/readme_fr.md">Français </a>
-    -- 
+    . 
     <a href="/docs/readme_cn.md">繁體中文</a>
-    --
+    .
     <a href="/docs/readme_es.md">Español</a>
-    --
+    .
     <a href="/docs/readme_pt-BR.md">Português (Brasileiro)</a>
 <p/>
 
-*  As you can see, the translations were done instantly, if there are any errors, please disregard the act 🐱
+*  As you can see, the translations were done instantly, if there are any errors, please disregard the act
 ---
 
 ### Introduction 👶
@@ -110,7 +110,7 @@ You may at a given moment, want to change files present in your project, instead
 
 #####
     git config --global user.email YourEmail
-    git config --global user.name "Mackson Mesquita"
+    git config --global user.name "Your name"
     git config --global core.excludesfile ~/.gitignore
     git help
 
