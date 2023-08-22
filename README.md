@@ -54,6 +54,7 @@ It is important to remember that this is just the initial step, throughout a pro
       git add . 
       git commit -m "update version"
       git push
+      
 
 ### Visualization and manipulation 🙌
 
@@ -79,3 +80,43 @@ Here are some of the commands needed to view and manipulate branches and remote 
 * Switch from branch
 * Goes back to the main branch
 * Merge two different branches
+
+
+### Cloning a repo 👷
+
+##### If you want clone an existing repo and use the files and stuff present in it, you can:
+    git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+
+### File manipulation ✍️
+
+You may at a given moment, want to change files present in your project, instead of looking for and changing it manually, you can:
+
+#####
+    git status
+    git add file.txt
+    git rm file.txt
+    git rm directory 
+    
+**Respectively, the commands:**
+
+* Show the stats of your files in your directory
+* Add a file
+* Remove a file
+* Remove a directory
+
+
+## More useful commands 💻
+
+#####
+    git config --global user.email YourEmail
+    git config --global user.name "Mackson Mesquita"
+    git config --global core.excludesfile ~/.gitignore
+    git help
+
+**Respectively, the commands:**
+
+* Configures the user's global email (required during the git install process)
+* Configures the user's global name (required during the git install process)
+* Files to be ignored
+* The GitHub help 
