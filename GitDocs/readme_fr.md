@@ -18,10 +18,18 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 * Comme vous pouvez voir, les traductions ont été faites instantanément, et peuvent contenir quelques erreurs, merci de ne pas de cet acte.
+* Si vous aimez le contenu, partagez-le
   
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="300">
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ![](https://i.imgur.com/waxVImv.png)
+
+<br/>
+<br/>
 
 ## Présentation 👶
 
@@ -30,7 +38,11 @@ Ce référentiel ne vous présentera pas les concepts de base de GitHub, il vous
 
 Chaque commande visible ici représentera une fonction, qu'elle soit chargée de faire un petit commit ou de vous aider à manipuler des branches.
 
+<br/>
+
 ---
+
+<br/>
 
 ### Comment faire un commit 🐤
 
