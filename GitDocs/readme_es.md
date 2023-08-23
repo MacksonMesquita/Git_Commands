@@ -18,10 +18,18 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 * Como puede ver, las traducciones se realizaron al instante y pueden contener algunos errores, ignore este acto.
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="300">
+* Si te gusta el contenido compártelo
+
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ![](https://i.imgur.com/waxVImv.png)
+
+<br/>
+<br/>
 
 ## introducción 👶
 
@@ -30,9 +38,13 @@ Este repositorio no le presentará los conceptos básicos de GitHub, solo le mos
 
 Cada comando visible aquí representará una función, ya sea responsable de realizar una pequeña confirmación o de ayudarlo a manipular ramas.
 
+<br/>
+
 ---
 
-### Cómo hacer un compromiso 🐤
+<br/>
+
+### Cómo hacer un commit 🐤
 
 Para hacer un commit hay algunos pasos. Primero, debe asegurarse de que exista un repositorio en su perfil de GitHub.
 Lo mismo ya te ayudará cuando des el primer paso creando un repositorio, pero de todos modos aquí te dejamos una pequeña explicación de lo que representa cada paso.
