@@ -23,7 +23,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-### introducción 👶
+## introducción 👶
 
 GitHub tiene un gran repertorio de comandos utilizables y cada uno realiza una función diferente. <br />
 Este repositorio no le presentará los conceptos básicos de GitHub, solo le mostrará algunos de los comandos de GitHub más utilizados.
