@@ -15,13 +15,15 @@
     <a href="/GitDocs/readme_pt-br.md">Português-BR</a>
 <p/>
 
+![](https://i.imgur.com/waxVImv.png)
+
 * Como você pode ver, as traduções foram feitas instântaneamente, e podem conter alguns erros, por favor, desconsidere tal ato.
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="300">
 
----
+![](https://i.imgur.com/waxVImv.png)
 
-### Introdução 👶
+## Introdução 👶
 
 O GitHub tem um grande repertório de comandos utilizáveis, e cada um, realiza uma função diferente. <br />
 Este repositório não introduzirá você a conceitos básicos do GitHub, ele apenas te mostrará, alguns dos comandos mais utilizados do mesmo.
