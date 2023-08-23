@@ -4,15 +4,21 @@
 
 <p>
     <a href="/GitDocs/readme_fr.md">Français </a>
-    . 
+<p/> 
+<p>
     <a href="/GitDocs/readme_ch.md">繁體中文</a>
-    .
+<p/> 
+<p>
     <a href="/GitDocs/readme_es.md">Español</a>
-    .
+<p/>
+<p>
     <a href="/GitDocs/readme_pt-br.md">Português-BR</a>
 <p/>
 
 * 如您所見，翻譯是即時完成的，可能存在一些錯誤，請忽略此行為。
+  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="300">
+
 ---
 
 ### 演示👶
