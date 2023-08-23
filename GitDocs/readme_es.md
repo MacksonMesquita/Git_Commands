@@ -14,12 +14,14 @@
 <p>
     <a href="/GitDocs/readme_pt-br.md">Português-BR</a>
 <p/>
+    
+![](https://i.imgur.com/waxVImv.png)
 
 * Como puede ver, las traducciones se realizaron al instante y pueden contener algunos errores, ignore este acto.
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="300">
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ### introducción 👶
 
