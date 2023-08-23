@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-# Introduction 👶
+## Introduction 👶
 
 GitHub has a large repertoire of usable commands, which separately perform different functions. <br /> 
 This repo will not introduce you to basic concepts about GitHub, it will just show you, some of the most used GitHub commands.
