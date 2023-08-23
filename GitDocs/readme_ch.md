@@ -18,10 +18,18 @@
 ![](https://i.imgur.com/waxVImv.png)
     
 * 如您所見，翻譯是即時完成的，可能存在一些錯誤，請忽略此行為。
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="300">
+* 如果您喜歡內容，請分享
 
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+  
 ![](https://i.imgur.com/waxVImv.png)
+
+<br/>
+<br/>
 
 ## 演示👶
 
@@ -30,7 +38,11 @@ GitHub 擁有大量可用命令，每個命令執行不同的功能。 <br/>
 
 此處可見的每個命令都代表一個函數，無論它是負責進行小型提交還是幫助您操作分支。
 
+<br/>
+
 ---
+
+<br/>
 
 ### 如何提交🐤
 
