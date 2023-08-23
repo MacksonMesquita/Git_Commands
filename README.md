@@ -18,19 +18,32 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 *  As you can see, the translations were done instantly, if there are any errors, please disregard the act
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="300">
+
+* if you like the content, share it
+
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## Introduction 👶
+<br/>
+<br/>
+
+# Introduction 👶
 
 GitHub has a large repertoire of usable commands, which separately perform different functions. <br /> 
 This repo will not introduce you to basic concepts about GitHub, it will just show you, some of the most used GitHub commands.
 
 All commands visible in here, will be representing a function. Whether it's making a small commit or helping you handle branches.
 
+<br/>
+
 ---
+
+<br/>
 
 ### How make a commit 🐤
 
