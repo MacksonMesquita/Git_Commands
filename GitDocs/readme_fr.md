@@ -23,7 +23,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-### Présentation 👶
+## Présentation 👶
 
 GitHub dispose d'un large répertoire de commandes utilisables, chacune remplissant une fonction différente. <br />
 Ce référentiel ne vous présentera pas les concepts de base de GitHub, il vous montrera simplement certaines des commandes GitHub les plus utilisées.
