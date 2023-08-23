@@ -69,6 +69,7 @@ Here are some of the commands needed to view and manipulate branches and remote 
       git checkout branchName
       git checkout master
       git merge branchName
+      git branch -a
 
 **Respectively, the commands:**
 
@@ -80,6 +81,7 @@ Here are some of the commands needed to view and manipulate branches and remote 
 * Switch from branch
 * Goes back to the main branch
 * Merge two different branches
+* view all branches (remote and local)
 
 
 ### Cloning a repo 👷
