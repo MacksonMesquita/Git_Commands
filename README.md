@@ -17,8 +17,8 @@
     
 ![](https://i.imgur.com/waxVImv.png)
 
-*  As you can see, the translations were done instantly, if there are any errors, please disregard the act
-* if you like the content, share it
+* As you can see, the translations were done instantly, if there are any errors, please disregard the act
+* If you like the content, share it
 
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
