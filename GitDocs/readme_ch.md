@@ -14,6 +14,9 @@
 <p>
     <a href="/GitDocs/readme_pt-br.md">Português-BR</a>
 <p/>
+<p>
+    <a href="/README.md">English</a>
+<p/> 
     
 ![](https://i.imgur.com/waxVImv.png)
     
