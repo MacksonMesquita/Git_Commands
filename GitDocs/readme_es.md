@@ -49,26 +49,41 @@ Cada comando visible aquí representará una función, ya sea responsable de rea
 
 ### Cómo hacer un commit 🐤
 
-Para hacer un commit hay algunos pasos. Primero, debe asegurarse de que exista un repositorio en su perfil de GitHub.
+Para hacer un commit hay algunos pasos. 
+<br />
+Primero, debe asegurarse de que exista un repositorio en su perfil de GitHub.
+<br />
 Lo mismo ya te ayudará cuando des el primer paso creando un repositorio, pero de todos modos aquí te dejamos una pequeña explicación de lo que representa cada paso.
 
 ##### Para inicializar sus archivos en Git.
       git init
+
+<br />
       
 ##### En caso de que desee agregar un archivo readme.
       git add README.md
 
+<br />
+
 ##### Haciendo un commit con un mensaje de tu elección (vale la pena recordar que este mensaje será desplegado).
       git commit -m "first commit"
+
+<br />
 
 ##### Este comando lo ayudará a estabilizar la conexión necesaria para sus cambios, tenga en cuenta que este comando sincroniza el repositorio local de su proyecto con el presente en su GitHub.
       git remote add origin https://github.com/YourUserName/YourRepoName.git
 
+<br />
+
 ##### Con este comando, puede seleccionar la rama en la que desea volcar su contenido.
       git branch -M main
 
+<br />
+
 ##### Realiza el push (cuando se dice _push_, no es más que el acto de extraer el contenido local, sincronizarlo y subirlo a tu repositorio Git).
       git push -u origin main
+
+<br />
 
 ¿Vio? No es tan difícil comprometer y empujar un repositorio, siguiendo estos pasos al pie de la letra, una vez que hayas creado el repositorio en tu perfil, ¡tendrás todo el contenido disponible!
 Es importante recordar que estos son solo los pasos iniciales, obviamente, a lo largo de su proyecto, lo actualizará con más frecuencia, sin embargo, no es necesario repetir todo el proceso, solo realice algunos de los pasos a continuación y las nuevas actualizaciones estará disponible:
@@ -78,6 +93,7 @@ Es importante recordar que estos son solo los pasos iniciales, obviamente, a lo 
       git commit -m "update version"
       git push
 
+<br />
 
 ### visualización y manipulación 🙌
 
@@ -106,12 +122,14 @@ Aquí hay algunos comandos necesarios para manipular y ver sucursales y reposito
 * Fusiona tus diferentes sucursales
 * Ver todas las sucursales (tanto remotas como locales)
 
+<br />
 
 ### Clonar un repositorio 👷
 
 ##### Si desea clonar un repositorio existente y usar los archivos y contenidos presentes, tu puede:
     git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
+<br />
 
 ### Manipulación de archivos ✍️
 
@@ -130,6 +148,7 @@ En algún momento necesitará manipular archivos, en lugar de hacerlo manualment
 * Eliminar un archivo
 * Eliminar un directorio
 
+<br />
 
 ## Comandos útiles 💻
 
