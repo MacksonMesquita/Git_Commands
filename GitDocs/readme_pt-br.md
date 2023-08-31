@@ -49,26 +49,41 @@ Todo comando visivel aqui, representará uma função, seja ela responsável por
 
 ### Como fazer um commit 🐤
 
-Para fazer um commit existem algumas etapas. Primeiro, você deve certificar que há um repositório existente em seu perfil no GitHub.
+Para fazer um commit existem algumas etapas. 
+<br />
+Primeiro, você deve certificar que há um repositório existente em seu perfil no GitHub.
+<br />
 O mesmo, já irá te ajudar quando você der o primeiro passo criando um repositório, mas de qualquer maneira, aqui vai uma pequena explicação do que cada passo dado representa.
 
 ##### Para inicializar seus arquivos no Git.
       git init
+
+<br />
       
 ##### Caso você queira adicionar um arquivo readme.
       git add README.md
 
+<br />
+
 ##### Fazendo um commit com uma menssagem de sua escolha (vale lembrar que esta menssagem será exibida).
       git commit -m "first commit"
+
+<br />
 
 ##### Este comando ajudará você a estabilizar a conexão necessária para subir suas alterações, note que este comando sincroniza o repositório local do seu projeto com o presente em seu GitHub.
       git remote add origin https://github.com/YourUserName/YourRepoName.git
 
+<br />
+
 ##### Com este comando, você pode selecionar a branch que deseja despejar seu conteudo.
       git branch -M main
 
+<br />
+
 ##### Realiza o push (quando se diz _push_, nada mais é do que o ato de puxar o conteudo local, sincroniza-lo e subi-lo em seu repositório Git).
       git push -u origin main
+
+<br />
 
 Viu? Não é tão difícil commitar e realizar um push em um repositório, seguindo exatamente estas etapas, depois de ter criado o repositório em seu perfil, você terá todo o conteúdo disponível!
 É importante lembrar que estes são apenas os passos iniciais, obviamente, ao longo de seu projeto, você o atualizará mais vezes, entretanto, não é necessário repetir todo processo, apenas faça alguns dos passos abaixo, e as novas atualizações estarão disponíveis:
