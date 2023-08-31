@@ -6,9 +6,6 @@
     <a href="/GitDocs/readme_fr.md">Français </a>
 <p/> 
 <p>
-    <a href="/GitDocs/readme_ch.md">繁體中文</a>
-<p/> 
-<p>
     <a href="/GitDocs/readme_es.md">Español</a>
 <p/>
 <p>
