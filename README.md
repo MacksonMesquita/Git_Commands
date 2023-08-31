@@ -90,6 +90,7 @@ It is important to remember that this is just the initial step, throughout a pro
       git commit -m "update version"
       git push
       
+<br />
 
 ### Visualization and manipulation 🙌
 
@@ -118,12 +119,14 @@ Here are some of the commands needed to view and manipulate branches and remote 
 * Merge two different branches
 * view all branches (remote and local)
 
+<br />
 
 ### Cloning a repo 👷
 
 ##### If you want clone an existing repo and use the files and stuff present in it, you can:
     git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
+<br />
 
 ### File manipulation ✍️
 
@@ -142,6 +145,7 @@ You may at a given moment, want to change files present in your project, instead
 * Remove a file
 * Remove a directory
 
+<br />
 
 ## More useful commands 💻
 
