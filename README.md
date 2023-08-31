@@ -53,21 +53,33 @@ It will already help you to do it, giving the first steps when creating a repo, 
 
 ##### For initializate your files on Git.
       git init
+
+<br />
       
 ##### If you want to add a readme file.
       git add README.md
 
+<br />
+
 ##### Making your commit with a message of your choice (it is worth remembering, that message will be displayed).
       git commit -m "first commit"
+
+<br />
 
 ##### This command will help you to establish the necessary connection to upload your changes, note that this command synchronizes your local project with the repo present in your Git.
       git remote add origin https://github.com/YourUserName/YourRepoName.git
 
+<br />
+
 ##### With this command, you can select the branch you want to upload the local content.
       git branch -M main
 
+<br />
+
 ##### Do the push (as the name implies, _push_ is the act of pulling the local content, synchronized with your repo).
       git push -u origin main
+
+<br />
 
 Did you saw? It's not that difficult to commit and push in a repo, following these steps exactly, after creating a repo in your profile, you will upload all the available content to your GitHub!
 It is important to remember that this is just the initial step, throughout a project, you will update it more often, and it is not necessary to repeat the process, just issue the following commands, and your new version will be available:
