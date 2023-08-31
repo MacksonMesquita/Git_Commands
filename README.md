@@ -49,6 +49,7 @@ All commands visible in here, will be representing a function. Whether it's maki
 To make a commit there are a few steps.
 <br />
 First you must check if your repository has already been created on your GitHub.
+<br />
 It will already help you to do it, giving the first steps when creating a repo, however, here is a brief explanation of what each one does and represents.
 
 ##### For initializate your files on Git.
