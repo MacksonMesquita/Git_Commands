@@ -93,6 +93,7 @@ Viu? Não é tão difícil commitar e realizar um push em um repositório, segui
       git commit -m "update version"
       git push
 
+<br />
 
 ### Visualização e manipulação 🙌
 
@@ -121,12 +122,14 @@ Aqui vão alguns comandos necessários para manipular e visualizar branches e re
 * Faz o merge de suas branches diferentes
 * Vizualiza todas as branches (tanto remota quanto local)
 
+<br />
 
 ### Clonando um repositório 👷
 
 ##### Se você quiser clonar um repositório já existente e utilizar os arquivos e conteúdos presentes no mesmo, você pode:
     git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
+<br />
 
 ### Manipulando arquivos ✍️
 
@@ -145,6 +148,7 @@ Em algum determinado momento, você precisará manipular arquivos, ao invés de 
 * Removem um arquivo
 * Removem um diretório
 
+<br />
 
 ## Mais comandos úteis 💻
 
