@@ -165,6 +165,9 @@ No primeiro estágio da operação, o git pull executa o comando git fetch, que 
 Quando o conteúdo é baixado, o git pull insere o fluxo de trabalho de merge. O commit de merge é criado e a HEAD é atualizada para apontar o novo commit.
 </details>
 
+#### 
+     git pull
+
 <br />
 
 ## Mais comandos úteis 💻
