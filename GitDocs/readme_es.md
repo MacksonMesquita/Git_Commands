@@ -147,6 +147,29 @@ En algún momento necesitará manipular archivos, en lugar de hacerlo manualment
 
 <br />
 
+### Git pull 👇
+
+En este momento, si sabes un poco sobre los comandos git, te preguntarás por qué hay una sesión única y exclusiva para el comando *git pull*.
+La respuesta es simple, el comando git pull no es solo un comando único que ejecuta una función "cualquiera", es quizás el comando más utilizado después de sus hermanos **commit y push**.
+sin olvidar las innumerables variaciones y complementos que tiene. ¡Así que espera y hagámoslo!
+
+<details>
+<summary> ¿Qué es el comando git pull? </summary>
+<br />
+El comando git pull se utiliza para buscar y descargar contenido de repositorios remotos y actualizar inmediatamente el repositorio local para que el contenido sea el mismo, no teniendo así,
+diferencia entre los contenidos a fusionar, sin riesgo de errores o bugs.
+<br />
+<br />
+En la primera etapa de la operación, git pull ejecuta el comando git fetch, que cubre la rama local a la que apunta HEAD.
+<br />
+Cuando se descarga el contenido, git pull ingresa al flujo de trabajo de fusión. Se crea la confirmación de fusión y el HEAD se actualiza para que apunte a la nueva confirmación.
+</details>
+
+####
+     git pull
+
+<br />
+
 ## Comandos útiles 💻
 
 #####
