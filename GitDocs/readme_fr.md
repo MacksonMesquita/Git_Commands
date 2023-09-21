@@ -127,6 +127,30 @@ A un moment donné, vous aurez besoin de manipuler des fichiers, au lieu de le f
 * Supprimer un fichier
 * Supprimer un répertoire
 
+<br />
+
+### Git pull 👇
+
+À l'heure actuelle, si vous connaissez un peu les commandes git, vous vous demandez peut-être pourquoi il existe une session unique et exclusive pour la commande *git pull*.
+La réponse est simple, la commande git pull n'est pas qu'une simple commande qui exécute une fonction "n'importe laquelle", c'est peut-être la commande la plus utilisée après ses frères **commit et push**,
+sans parler des innombrables variantes et compléments dont il dispose. Alors attendez et faisons-le !
+
+<details>
+<summary> Qu'est-ce que la commande git pull ? </summary>
+<br />
+La commande git pull est utilisée pour rechercher et télécharger du contenu à partir de référentiels distants et mettre immédiatement à jour le référentiel local afin que le contenu soit le même, sans avoir,
+différence entre les contenus à fusionner, sans risque d'erreurs ou de bugs.
+<br />
+<br />
+Dans la première étape de l'opération, git pull exécute la commande git fetch, qui couvre la branche locale vers laquelle pointe HEAD.
+<br />
+Lorsque le contenu est téléchargé, git pull entre dans le workflow de fusion. La validation de fusion est créée et le HEAD est mis à jour pour pointer vers la nouvelle validation.
+</details>
+
+####
+     git pull
+
+<br />
 
 ## Des commandes plus utiles 💻
 
