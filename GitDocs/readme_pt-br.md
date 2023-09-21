@@ -155,8 +155,13 @@ sem contar as inúmeras variações e complementos que o mesmo possui. Então se
 
 <details>
 <summary> Oque é o comando git pull? </summary>
-O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais, não avendo assim,
-diferença entre os conteúdos a serem mergeados. No primeiro estágio da operação, o git pull executa o comando git fetch, que abrange a ramificação local para qual a HEAD aponta. 
+<br />
+O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais, não havendo assim, 
+diferença entre os conteúdos a serem mergeados, sem risco de erros ou bugs.
+<br />
+<br />
+No primeiro estágio da operação, o git pull executa o comando git fetch, que abrange a ramificação local para qual a HEAD aponta.
+<br />
 Quando o conteúdo é baixado, o git pull insere o fluxo de trabalho de merge. O commit de merge é criado e a HEAD é atualizada para apontar o novo commit.
 </details>
 
