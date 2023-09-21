@@ -144,6 +144,30 @@ You may at a given moment, want to change files present in your project, instead
 
 <br />
 
+### Git pull 👇
+
+Right now, if you know a little about git commands, you might be wondering why there is a single and exclusive session for the *git pull* command.
+The answer is simple, the git pull command is not just a single command that executes an "any" function, it is perhaps the most used command after its brothers **commit and push**,
+not to mention the countless variations and complements it has. So hold on, and let's do it!
+
+<details>
+<summary> What is the git pull command? </summary>
+<br />
+The git pull command is used to search and download content from remote repositories and immediately update the local repository so that the contents are the same, thus not having,
+difference between the contents to be merged, without risk of errors or bugs.
+<br />
+<br />
+In the first stage of the operation, git pull executes the git fetch command, which covers the local branch to which the HEAD points.
+<br />
+When the content is downloaded, git pull enters the merge workflow. The merge commit is created and the HEAD is updated to point to the new commit.
+</details>
+
+####
+    git pull
+
+<br />
+
+
 ## More useful commands 💻
 
 #####
