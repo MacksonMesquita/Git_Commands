@@ -93,28 +93,30 @@ It is important to remember that this is just the initial step, throughout a pro
 
 Here are some of the commands needed to view and manipulate branches and remote repositories:
 
-##### 
-      git remote show origin
-      git remote rename origin curso-git
-      git remote rm curso-git
-      git remote -v
-      git branch
-      git checkout branchName
-      git checkout master
-      git merge branchName
-      git branch -a
+#####
+      1- git remote show origin
+      2- git remote rename origin curso-git
+      3 -git remote rm curso-git
+      4- git remote -v
+      5- git branch
+      6- git checkout branchName
+      7- git checkout master
+      8- git merge branchName
+      9- git branch -a
+      10- git branch -b NewBranch
 
-**Respectively, the commands:**
+**Respectively, they:**
 
-* Show the linked origin
-* Renames the linked origin
-* Unlink origin from git repository
-* Shows the linked origin
-* Shows the branch you are manipulating
-* Switch from branch
-* Goes back to the main branch
-* Merge two different branches
-* view all branches (remote and local)
+* 1- Show the linked origin
+* 2- Rename the linked origin
+* 3- Remove the link to your repository
+* 4- Show all linked origins
+* 5- Display the branch you are manipulating
+* 6- Select a branch of your choice
+* 7- Return to the main branch
+* 8- Merge your different branches
+* 9- View all branches (both remote and local)
+* 10- Create a new branch with the name of your choice
 
 <br />
 
@@ -130,17 +132,17 @@ Here are some of the commands needed to view and manipulate branches and remote 
 You may at a given moment, want to change files present in your project, instead of looking for and changing it manually, you can:
 
 #####
-    git status
-    git add file.txt
-    git rm file.txt
-    git rm directory 
+    1- git status
+    2- git add file.txt
+    3- git rm file.txt
+    4- git rm directory 
     
 **Respectively, the commands:**
 
-* Show the stats of your files in your directory
-* Add a file
-* Remove a file
-* Remove a directory
+* 1- Show the stats of your files in your directory
+* 2- Add a file
+* 3- Remove a file
+* 4- Remove a directory
 
 <br />
 
@@ -171,14 +173,14 @@ When the content is downloaded, git pull enters the merge workflow. The merge co
 ## More useful commands 💻
 
 #####
-    git config --global user.email YourEmail
-    git config --global user.name "Your name"
-    git config --global core.excludesfile ~/.gitignore
-    git help
+    1- git config --global user.email YourEmail
+    2- git config --global user.name "Your name"
+    3- git config --global core.excludesfile ~/.gitignore
+    4- git help
 
 **Respectively, the commands:**
 
-* Configures the user's global email (required during the git install process)
-* Configures the user's global name (required during the git install process)
-* Files to be ignored
-* The Git help 
+* 1- Configures the user's global email (required during the git install process)
+* 2- Configures the user's global name (required during the git install process)
+* 3- Files to be ignored
+* 4- The Git help 
