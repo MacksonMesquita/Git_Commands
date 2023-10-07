@@ -97,27 +97,29 @@ Es importante recordar que estos son solo los pasos iniciales, obviamente, a lo 
 Aquí hay algunos comandos necesarios para manipular y ver sucursales y repositorios remotos:
 
 ##### 
-      git remote show origin
-      git remote rename origin curso-git
-      git remote rm curso-git
-      git remote -v
-      git branch
-      git checkout branchName
-      git checkout master
-      git merge branchName
-      git branch -a
+      1- git remote show origin
+      2- git remote rename origin curso-git
+      3- git remote rm curso-git
+      4- git remote -v
+      5- git branch
+      6- git checkout branchName
+      7- git checkout master
+      8- git merge branchName
+      9- git branch -a
+      10- git branch -b NewBranch
 
 **Respectivamente, ellos:**
 
-* Mostrar el origen vinculado
-* Cambia el nombre del origen vinculado
-* Elimina el enlace a su repositorio
-* Muestra todos los orígenes vinculados
-* Muestra la rama que estás manipulando.
-*Seleccione una sucursal de su preferencia
-*Vuelve a la sucursal principal
-* Fusiona tus diferentes sucursales
-* Ver todas las sucursales (tanto remotas como locales)
+* 1- Mostrar el origen vinculado
+* 2- Cambia el nombre del origen vinculado
+* 3- Elimina el enlace a su repositorio
+* 4- Muestra todos los orígenes vinculados
+* 5- Muestra la rama que estás manipulando.
+* 6- Seleccione una sucursal de su preferencia
+* 7- Vuelve a la sucursal principal
+* 8- Fusiona tus diferentes sucursales
+* 9- Ver todas las sucursales (tanto remotas como locales)
+* 10- Crea una nueva sucursal con el nombre de tu elección
 
 <br />
 
@@ -133,17 +135,17 @@ Aquí hay algunos comandos necesarios para manipular y ver sucursales y reposito
 En algún momento necesitará manipular archivos, en lugar de hacerlo manualmente, puede hacerlo con los comandos:
 
 #####
-    git status
-    git add file.txt
-    git rm file.txt
-    git rm directory
+    1- git status
+    2- git add file.txt
+    3- git rm file.txt
+    4- git rm directory
 
 **Respectivamente, los comandos:**
 
-* Mostrar el estado de los archivos presentes en su directorio
-* Añadir un archivo
-* Eliminar un archivo
-* Eliminar un directorio
+* 1- Mostrar el estado de los archivos presentes en su directorio
+* 2- Añadir un archivo
+* 3- Eliminar un archivo
+* 4- Eliminar un directorio
 
 <br />
 
@@ -173,14 +175,14 @@ Cuando se descarga el contenido, git pull ingresa al flujo de trabajo de fusión
 ## Comandos útiles 💻
 
 #####
-    git config --global user.email YourEmail
-    git config --global user.name "Your name"
-    git config --global core.excludesfile ~/.gitignore
-    git help
+    1- git config --global user.email YourEmail
+    2- git config --global user.name "Your name"
+    3- git config --global core.excludesfile ~/.gitignore
+    4- git help
 
 **Respectivamente, sirven para:**
 
-* Configurar el correo electrónico global del usuario (requerido durante el proceso de instalación de Git)
-* Establecer el nombre global del usuario (requerido durante el proceso de instalación de Git)
-* Ignorar archivos de su elección
-* Mostrar la ayuda de Git
+* 1- Configurar el correo electrónico global del usuario (requerido durante el proceso de instalación de Git)
+* 2- Establecer el nombre global del usuario (requerido durante el proceso de instalación de Git)
+* 3- Ignorar archivos de su elección
+* 4- Mostrar la ayuda de Git
