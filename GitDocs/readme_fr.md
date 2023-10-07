@@ -81,27 +81,29 @@ Il est important de se rappeler que ce ne sont que les premières étapes, évid
 Voici quelques commandes nécessaires pour manipuler et afficher les branches et dépôts distants :
 
 #####
-      Git remote show origin
-      git remote rename origin curso-git
-      git remote rm curso-git
-      git remote -v
-      git branch
-      git checkout branchName
-      git checkout master
-      git merge branchName
-      git branch -a
+      1-Git remote show origin
+      2- git remote rename origin curso-git
+      3- git remote rm curso-git
+      4- git remote -v
+      5- git branch
+      6- git checkout branchName
+      7- git checkout master
+      8- git merge branchName
+      9- git branch -a
+      10- git branch -b NewBranch
 
 **Respectivement, ils :**
 
-* Afficher l'origine liée
-* Renomme l'origine liée
-* Supprime le lien vers votre référentiel
-* Affiche toutes les origines liées
-* Affichez la branche que vous manipulez
-* Sélectionnez une succursale de votre choix
-* Retourne à la branche principale
-* Fusionnez vos différentes succursales
-* Afficher toutes les succursales (à distance et locales)
+* 1- Afficher l'origine liée
+* 2- Renomme l'origine liée
+* 3- Supprime le lien vers votre référentiel
+* 4- Affiche toutes les origines liées
+* 5- Affichez la branche que vous manipulez
+* 6- Sélectionnez une succursale de votre choix
+* 7- Retourne à la branche principale
+* 8- Fusionnez vos différentes succursales
+* 9- Afficher toutes les succursales (à distance et locales)
+* 10- Créez une nouvelle branche avec le nom de votre choix
 
 
 ### Cloner un dépôt 👷
@@ -115,17 +117,17 @@ Voici quelques commandes nécessaires pour manipuler et afficher les branches et
 A un moment donné, vous aurez besoin de manipuler des fichiers, au lieu de le faire manuellement, vous pouvez le faire avec les commandes :
 
 #####
-    git status
-    git add file.txt
-    git rm file.txt
-    git rm directory 
+    1- git status
+    2- git add file.txt
+    3- git rm file.txt
+    4- git rm directory 
 
 **Respectivement, les commandes :**
 
-* Afficher l'état des fichiers présents dans votre répertoire
-* Ajouter un fichier
-* Supprimer un fichier
-* Supprimer un répertoire
+* 1- Afficher l'état des fichiers présents dans votre répertoire
+* 2- Ajouter un fichier
+* 3- Supprimer un fichier
+* 4- Supprimer un répertoire
 
 <br />
 
@@ -155,14 +157,14 @@ Lorsque le contenu est téléchargé, git pull entre dans le workflow de fusion.
 ## Des commandes plus utiles 💻
 
 #####
-    git config --global user.email YourEmail
-    git config --global user.name "Your name"
-    git config --global core.excludesfile ~/.gitignore
-    git help
+    1- git config --global user.email YourEmail
+    2- git config --global user.name "Your name"
+    3- git config --global core.excludesfile ~/.gitignore
+    4- git help
 
 **Respectivement, ils :**
 
-* Configurer l'e-mail global de l'utilisateur (requis lors du processus d'installation de Git)
-* Définissez le nom global de l'utilisateur (requis lors du processus d'installation de Git)
-* Ignorez les fichiers de votre choix
-* Afficher l'aide de Git
+* 1- Configurer l'e-mail global de l'utilisateur (requis lors du processus d'installation de Git)
+* 2- Définissez le nom global de l'utilisateur (requis lors du processus d'installation de Git)
+* 3- Ignorez les fichiers de votre choix
+* 4- Afficher l'aide de Git
