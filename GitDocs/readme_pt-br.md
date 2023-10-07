@@ -97,27 +97,29 @@ Viu? Não é tão difícil commitar e realizar um push em um repositório, segui
 Aqui vão alguns comandos necessários para manipular e visualizar branches e repositórios remotos:
 
 ##### 
-      git remote show origin
-      git remote rename origin curso-git
-      git remote rm curso-git
-      git remote -v
-      git branch
-      git checkout branchName
-      git checkout master
-      git merge branchName
-      git branch -a
+      1- git remote show origin
+      2- git remote rename origin curso-git
+      3 -git remote rm curso-git
+      4- git remote -v
+      5- git branch
+      6- git checkout branchName
+      7- git checkout master
+      8- git merge branchName
+      9- git branch -a
+      10- git branch -b NewBranch
 
 **Respectivamente, eles:**
 
-* Mostram a origin linkada
-* Renomeia a origin linkada
-* Remove a ligação com o seu repositório
-* Mostram todas as origin linkadas
-* Exibem a branch que você esta manipulando
-* Selecionam uma branch de sua escolha
-* Volta para a branch main (principal)
-* Faz o merge de suas branches diferentes
-* Vizualiza todas as branches (tanto remota quanto local)
+* 1- Mostram a origin linkada
+* 2- Renomeia a origin linkada
+* 3- Remove a ligação com o seu repositório
+* 4- Mostram todas as origin linkadas
+* 5- Exibem a branch que você esta manipulando
+* 6- Selecionam uma branch de sua escolha
+* 7- Volta para a branch main (principal)
+* 8- Faz o merge de suas branches diferentes
+* 9- Vizualiza todas as branches (tanto remota quanto local)
+* 10- Cria uma nova branch com o nome de sua escolha
 
 <br />
 
