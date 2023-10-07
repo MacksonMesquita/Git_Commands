@@ -135,17 +135,17 @@ Aqui vão alguns comandos necessários para manipular e visualizar branches e re
 Em algum determinado momento, você precisará manipular arquivos, ao invés de realizar isso manualmente, você pode fazer isto com os comandos:
 
 #####
-    git status
-    git add file.txt
-    git rm file.txt
-    git rm directory 
+    1- git status
+    2- git add file.txt
+    3- git rm file.txt
+    4- git rm directory 
 
 **Respectivamente, os comandos:**
 
-* Mostram o status dos arquivos presentes em seu diretório
-* Adicionam um arquivo
-* Removem um arquivo
-* Removem um diretório
+* 1- Mostram o status dos arquivos presentes em seu diretório
+* 2- Adicionam um arquivo
+* 3- Removem um arquivo
+* 4- Removem um diretório
 
 <br />
 
@@ -175,14 +175,14 @@ Quando o conteúdo é baixado, o git pull insere o fluxo de trabalho de merge. O
 ## Mais comandos úteis 💻
 
 #####
-    git config --global user.email YourEmail
-    git config --global user.name "Your name"
-    git config --global core.excludesfile ~/.gitignore
-    git help
+    1- git config --global user.email YourEmail
+    2- git config --global user.name "Your name"
+    3- git config --global core.excludesfile ~/.gitignore
+    4- git help
 
 **Respectivamente, eles:**
 
-* Configuram o email global do usuário (necessário durante o processo de instalação do Git)
-* Configuram o nome global do usuário (necessário durante o processo de instalação do Git)
-* Ignora arquivos de sua escolha
-* Exibem a ajuda do Git
+* 1- Configuram o email global do usuário (necessário durante o processo de instalação do Git)
+* 2- Configuram o nome global do usuário (necessário durante o processo de instalação do Git)
+* 3- Ignora arquivos de sua escolha
+* 4- Exibem a ajuda do Git
