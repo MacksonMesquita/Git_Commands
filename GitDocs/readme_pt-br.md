@@ -106,7 +106,7 @@ Aqui vão alguns comandos necessários para manipular e visualizar branches e re
       7- git checkout master
       8- git merge branchName
       9- git branch -a
-      10- git branch -b NewBranch
+      10- git checkout -b NewBranch
 
 **Respectivamente, eles:**
 
