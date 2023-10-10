@@ -103,7 +103,7 @@ Here are some of the commands needed to view and manipulate branches and remote 
       7- git checkout master
       8- git merge branchName
       9- git branch -a
-      10- git branch -b NewBranch
+      10- git checkout -b NewBranch
 
 **Respectively, they:**
 
