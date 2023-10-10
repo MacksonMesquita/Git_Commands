@@ -106,7 +106,7 @@ Aquí hay algunos comandos necesarios para manipular y ver sucursales y reposito
       7- git checkout master
       8- git merge branchName
       9- git branch -a
-      10- git branch -b NewBranch
+      10- git checkout -b NewBranch
 
 **Respectivamente, ellos:**
 
