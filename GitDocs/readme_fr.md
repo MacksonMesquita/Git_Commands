@@ -90,7 +90,7 @@ Voici quelques commandes nécessaires pour manipuler et afficher les branches et
       7- git checkout master
       8- git merge branchName
       9- git branch -a
-      10- git branch -b NewBranch
+      10- git checkout -b NewBranch
 
 **Respectivement, ils :**
 
